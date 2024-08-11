@@ -5,6 +5,10 @@
   "main": "src/index.ts",
   "author": "matthew-kwan",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthew-Kwan/aws-regions-enum.git"
+  },
   "devDependencies": {
     "typescript": "^5.5.4"
   }
