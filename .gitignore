@@ -1,0 +1,35 @@
+# Node modules directory
+node_modules/
+
+# Output directory for compiled TypeScript files
+dist/
+build/
+
+# Ignore TypeScript cache files
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS and editor specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables
+.env
+.env.*.local
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Ignore test coverage files
+coverage/
