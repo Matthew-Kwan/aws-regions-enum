@@ -1,0 +1,46 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.IataCode = exports.AwsRegion = void 0;
+var AwsRegion;
+(function (AwsRegion) {
+    AwsRegion["USEast1"] = "us-east-1";
+    AwsRegion["USEast2"] = "us-east-2";
+    AwsRegion["USWest1"] = "us-west-1";
+    AwsRegion["USWest2"] = "us-west-2";
+    AwsRegion["APEast1"] = "ap-east-1";
+    AwsRegion["APSouth1"] = "ap-south-1";
+    AwsRegion["APSoutheast1"] = "ap-southeast-1";
+    AwsRegion["APSoutheast2"] = "ap-southeast-2";
+    AwsRegion["APNortheast1"] = "ap-northeast-1";
+    AwsRegion["APNortheast2"] = "ap-northeast-2";
+    AwsRegion["CACentral1"] = "ca-central-1";
+    AwsRegion["EUNorth1"] = "eu-north-1";
+    AwsRegion["EUWest1"] = "eu-west-1";
+    AwsRegion["EUWest2"] = "eu-west-2";
+    AwsRegion["EUWest3"] = "eu-west-3";
+    AwsRegion["EUCentral1"] = "eu-central-1";
+    AwsRegion["MESouth1"] = "me-south-1";
+    AwsRegion["SAEast1"] = "sa-east-1";
+})(AwsRegion || (exports.AwsRegion = AwsRegion = {}));
+var IataCode;
+(function (IataCode) {
+    IataCode["IAD"] = "IAD";
+    IataCode["CMH"] = "CMH";
+    IataCode["SFO"] = "SFO";
+    IataCode["LAX"] = "LAX";
+    IataCode["HKG"] = "HKG";
+    IataCode["BOM"] = "BOM";
+    IataCode["SYD"] = "SYD";
+    IataCode["SIN"] = "SIN";
+    IataCode["NRT"] = "NRT";
+    IataCode["ICN"] = "ICN";
+    IataCode["YUL"] = "YUL";
+    IataCode["ARN"] = "ARN";
+    IataCode["DUB"] = "DUB";
+    IataCode["LHR"] = "LHR";
+    IataCode["CDG"] = "CDG";
+    IataCode["FRA"] = "FRA";
+    IataCode["DXB"] = "DXB";
+    IataCode["GRU"] = "GRU";
+})(IataCode || (exports.IataCode = IataCode = {}));
+//# sourceMappingURL=awsRegions.js.map
