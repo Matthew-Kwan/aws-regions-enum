@@ -2,6 +2,8 @@
 
 This package provides AWS region name representation enumerations.
 
+**NPM**: https://www.npmjs.com/package/aws-regions-enum
+
 ## Usage
 
 Install the package:
