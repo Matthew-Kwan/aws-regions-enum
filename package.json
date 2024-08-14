@@ -2,7 +2,8 @@
   "name": "aws-regions-enum",
   "version": "1.0.1",
   "description": "This package provides enums for AWS region name representations.",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "author": "matthew-kwan",
   "license": "MIT",
   "repository": {
